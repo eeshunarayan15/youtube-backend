@@ -1,0 +1,31 @@
+nmp init
+it is used to initiliazed the node project
+
+
+protocol means rules
+internet pe kuch karne ke liye kuch rules banaya 
+jinhone internet banaya hai
+
+to install any thing
+npm install packagename
+
+npm i one-liner-joke
+
+to unistall
+npm uninstall one-liner-joke
+
+
+how to install specific version of any package
+npm i accessibility@6.0.7
+
+// in node modules folder contains all the dependencies
+
+// dev dependencies are those dependencies which are used in developement not in production
+npm i nodemon --save-dev
+
+kaye bar aap script chalate ho aur aap likhte hai ye command
+npm start
+npm run dev
+
+
+npm i nodemon -g

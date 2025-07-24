@@ -1,9 +1,0 @@
-cookies      session
-
- When we are using the react 
-hum log kuch bhi data frontend pe data rakh sakte hai frontend pe 
-jab bhi hmm  request backend pe karte hai to frontend pe chala jata hai
- 
-
- install cookie parser
- npm i cookie-parser

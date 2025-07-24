@@ -1,0 +1,21 @@
+Express.js introduction
+expres ek package hai
+express request receving and response ko handle karta hai
+
+//nodemon we are install gloabally
+npm i nodemon -g
+
+to start--->npx nodemon script.js
+            nodemon index.js
+
+
+facebook-------->Middle ware---->routes-------->response
+                 here we can 
+                 attach the user
+                 details then server
+                 easily detect who 
+                 is user
+here we are introuducing the middle ware
+if we want to perform operations before routes 
+then it will be known as middle ware
+it can be used

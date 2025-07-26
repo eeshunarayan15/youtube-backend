@@ -1,0 +1,19 @@
+Data Storage
+Types OF DBS
+What and why
+termonologies collection, documents,schemas, keys, models
+
+
+DATABASE ------->COLLECTION ----->DOCUMENT
+CODE
+
+
+CODE            DATABASE
+-----------------------------------------------------------------------------
+mongoose.connect------->database create
+model create --->collection
+create code ------>document
+
+mongodd installation
+connection
+schema------model-------crud

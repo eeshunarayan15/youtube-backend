@@ -1,0 +1,10 @@
+create bacend npm init
+
+
+{
+  "name": "Eeshu Narayan",
+  "username": "eeshunarayan15",
+  "email": "eeshunarayan15@gmail.com",
+  "_id": "6884a1ba1e7d82e9de1466cd",
+  "__v": 0
+}

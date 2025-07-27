@@ -1,0 +1,40 @@
+npm i jsonwebtoken mongoose express bcrypt cookie-parser
+create user account
+setup mongoose
+setup schema
+setup model
+user--create------->password----->hashing
+jwt-token-cookie
+
+
+login--->
+will receive token-->decrypt ----->email
+login successfully
+
+
+
+
+
+
+
+
+user model
+full-name String
+password -string
+email -String
+cart array
+Is admin-boolean
+orders -array
+contact -number
+pic db
+
+product
+image
+name
+price
+discount
+bg-color
+pannel color
+text color
+
+

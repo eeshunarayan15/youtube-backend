@@ -1,0 +1,19 @@
+Authentication:-It is the process of login the user where we
+ask username and password and match the username and password in
+database if it exists in database then we give access of the account
+-----------------------------------------------------------------------------------
+Authorization:- It is the process of checking the authority of user when login .
+let's take example where user wants to change the profile picture of account ,
+first he has to log in then we will check if the has authority or not as user
+ he is only authorized to change the profile pic of self allowed to change
+  the profile pic of own account only ,he can not change the profile pic of
+ other account. If he is changing others profile pic then we return a message
+  saying that you are not authorized to change others profile pic.
+  --------------------------------------------------------------------------------
+  1 coockie kaise set karte hai
+  2 bcrypt kaise use karte hai for password encryption and decryption
+  3 jwt kya hai and jwt mai data kaise store karen and bahar kaise nikale
+
+
+  Installation  npm i jsonwebtoken bcrypt
+                npm i cookie-parser

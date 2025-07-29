@@ -1,4 +1,4 @@
-nmp init
+npm init
 it is used to initiliazed the node project
 
 

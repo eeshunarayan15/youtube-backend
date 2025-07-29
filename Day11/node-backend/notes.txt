@@ -1,0 +1,70 @@
+npm i jsonwebtoken mongoose express bcrypt cookie-parser
+ npm i jsonwebtoken cookie-parser bcrypt dotenv
+
+create user account
+setup mongoose
+setup schema
+setup model
+user--create------->password----->hashing
+jwt-token-cookie
+
+
+login--->
+will receive token-->decrypt ----->email
+login successfully
+
+
+
+
+
+
+
+
+user model
+full-name String
+password -string
+email -String
+cart array
+Is admin-boolean
+orders -array
+contact -number
+pic db
+
+product
+image
+name
+price
+discount
+bg-color
+pannel color
+text color
+
+package used for debug
+npm i debug
+
+for windows : set DEBUG=development:*
+DEBUG=development:* npx nodemon index.js
+
+for mac : export
+
+---->for switching between different env like production,development,testing
+FOR development.json
+   npm i config
+
+--------------------
+to check current state of process env
+console.log(process.env.NODE_ENV,"CURRENT STATE OF ENV");
+to setup env
+in mac --> export NODE_ENV=development
+in windows--> set NODE_ENV=development
+
+
+
+login/registration
+shop->shop
+user/cart/->cart
+admin->admin panel
+owners/products-> show all products
+owner/admin->show admin panel to create products
+
+
